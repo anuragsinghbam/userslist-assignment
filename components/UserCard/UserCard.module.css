@@ -1,0 +1,20 @@
+.card {
+  margin: 16px;
+}
+
+.card img {
+  width: 200px;
+  height: 200px;
+  background-color: #f5f5f5;
+}
+
+.card h3 {
+  margin: 0 0 8px;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 500;
+}
+
+.card p {
+  margin: 0 0 5px;
+  color: rgba(0, 0, 0, 0.65);
+}
